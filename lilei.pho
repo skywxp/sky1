@@ -1,5 +1,7 @@
-#include<stdio.h>
+
+include<stdio.h>
 main()
 {
   printf("李垒 邓璐 魏熙朋");
+   printf("李垒 邓璐 魏熙朋");
 }
